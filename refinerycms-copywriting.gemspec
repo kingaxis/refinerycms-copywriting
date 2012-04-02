@@ -9,5 +9,5 @@ Gem::Specification.new do |s|
   s.email             = 'unixcharles@gmail.com'
   s.homepage          = 'http://github.com/unixcharles/refinerycms-copywriting'
   s.require_paths     = %w(lib)
-  s.files             = Dir['lib/**/*', 'config/**/*', 'app/**/*', 'db/**/*', 'spec/**/*', 'features/**/*']
+  s.files             = Dir['lib/**/*', 'config/**/*', 'app/**/*', 'db/**/*']
 end
